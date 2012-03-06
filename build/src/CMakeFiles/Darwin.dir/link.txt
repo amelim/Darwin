@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/Darwin.dir/main.cpp.o  -o ../../Darwin -rdynamic -L/home/andrew/Games/Darwin/lib -ltcod -ltcodxx -ltcodgui -Wl,-rpath,/home/andrew/Games/Darwin/lib 
